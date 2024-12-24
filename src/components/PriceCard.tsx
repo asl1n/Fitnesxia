@@ -47,7 +47,7 @@ const PriceCard: React.FC<PriceCardProps> = ({
     isSelected
       ? "bg-white text-[#ff662d] border-white font-semibold"
       : "bg-transparent text-white border-white"
-  } hover:bg-gray-100`}
+  } hover:opacity-90`}
 >
   Choose Plan
 </button>
